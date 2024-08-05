@@ -3,7 +3,7 @@ function startConnect(){
     clientID = "clientID - "+parseInt(Math.random() * 100);
 
     host = "test.mosquitto.org";   
-    port = 8080;  
+    port = 80;  
     userId  = "";  
     passwordId = "";  
 
